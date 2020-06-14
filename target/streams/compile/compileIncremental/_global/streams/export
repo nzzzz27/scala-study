@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/nozomi/.sbt/boot/scala-2.12.10/lib/scala-library.jar -classpath /Users/nozomi/workspace/scala-study/target/scala-2.12/classes /Users/nozomi/workspace/scala-study/Factorial.scala

@@ -1,0 +1,29 @@
+run
+touch Distance.scala
+exit
+run
+runMain Distance
+sbt console
+sbt console 0.1 * 0.1
+sbt 
+exit
+runMain Factorial
+runMain PriceOfComputer
+runMain FactorialTailRec
+runMain Factorization
+exit
+runMain factorizationRec
+runMain Factorization
+exit
+runMain Factorization
+runMain Main
+exit
+runMain Main
+runMain Factorial
+exit
+runMain PriceOfComputer
+exit
+runMain FactorialRec
+runMain FactorialTextLevel3
+runMain Factorial
+exit
