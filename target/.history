@@ -27,3 +27,16 @@ runMain FactorialRec
 runMain FactorialTextLevel3
 runMain Factorial
 exit
+runMain SimpleSearch
+exit
+runMain SimpleSearch
+exit 
+runMain practice1
+runMain object Practice2 extends App {
+runMain Practice2
+clear
+runMain Practice2
+runMain SimpleSearch
+runMain Practice2
+runMain SimpleSearch
+exit
