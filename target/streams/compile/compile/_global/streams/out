@@ -1,7 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/nozomi/workspace/scala-study/SimpleSearch.scala:74:16: illegal start of simple expression[0m
-[0m[[0m[31merror[0m] [0m[0m        white (var i = 0, i < pattern.length - 1) {[0m
-[0m[[0m[31merror[0m] [0m[0m               ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/nozomi/workspace/scala-study/SimpleSearch.scala:83:5: ')' expected but '}' found.[0m
-[0m[[0m[31merror[0m] [0m[0m    }[0m
-[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nozomi/workspace/scala-study/PartialSumDFS.scala:31:10: isMatch is already defined as value isMatch[0m
+[0m[[0m[31merror[0m] [0m[0m    val (isMatch, result) = isMatchAndResult(0, Seq())[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nozomi/workspace/scala-study/PartialSumDFS.scala:31:19: result is already defined as value result[0m
+[0m[[0m[31merror[0m] [0m[0m    val (isMatch, result) = isMatchAndResult(0, Seq())[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
 [0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

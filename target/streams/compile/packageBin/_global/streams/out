@@ -2,6 +2,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Distance.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/Distance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PartialSumDFS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/PartialSumDFS.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	SimpleSearch$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/SimpleSearch$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Factorial.class[0m
@@ -18,12 +20,16 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/FactorialPractice3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PriceOfComputer$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/PriceOfComputer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PartialSumDFS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/PartialSumDFS$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Factorial$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/Factorial$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Practice2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/Practice2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PriceOfComputer.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/PriceOfComputer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PartialSumDFS$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/PartialSumDFS$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Distance$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nozomi/workspace/scala-study/target/scala-2.12/classes/Distance$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Factorization.class[0m
